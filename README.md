@@ -24,23 +24,20 @@ Centralize and secure customer, order, and inventory data. Automate key workflow
 
 💻 GitHub Repository: https://github.com/yashbhamare-lab/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion.git
 
-🔄 Custom Objects: HandsMen Customer Screenshot 2025-08-05 003911.png
-🔄 Custom Objects: HandsMen Order Screenshot 2025-08-05 003931.png
-🔄 Custom Objects: HandsMen Product Screenshot 2025-08-05 003945.png
-🔄 Custom Objects: Inventory Screenshot 2025-08-05 004157.png
-🔄 Custom Objects: Marketing Campaign Screenshot 2025-08-05 004338.png
-🔄 Flow: Loyalty Status Screenshot 2025-08-05 004111.png 
-🔄 Flow: Order Confirmation Screenshot 2025-08-05 004258.png
-🔄 Flow: Order Confirmation Email Screenshot 2025-08-05 014719.png 
-🔄 Flow: Stock Alert Screenshot 2025-08-05 004126.png
-🔄 Flow: Stock Alert Email Screenshot 2025-08-05 004426.png
-🔄 Classic Email Template Screenshot 2025-08-05 004806.png
-🔄 Loyalty program Screenshot 2025-08-05 004450.png
-🔄 Developer Console Screenshot 2025-08-05 004046.png
+🔄 Custom Objects: HandsMen Customer [Screenshot 2025-08-05 003911.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20003911.png)
+🔄 Custom Objects: HandsMen Order [Screenshot 2025-08-05 003931.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20003931.png)
+🔄 Custom Objects: HandsMen Product [Screenshot 2025-08-05 003945.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20003945.png)
+🔄 Custom Objects: Inventory [Screenshot 2025-08-05 004157.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004157.png)
+🔄 Custom Objects: Marketing Campaign [Screenshot 2025-08-05 004338.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004338.png)
+🔄 Flow: Loyalty Status [Screenshot 2025-08-05 004450.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004111.png)
+🔄 Flow: Order Confirmation [Screenshot 2025-08-05 004258.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004258.png)
+🔄 Flow: Order Confirmation Email [Screenshot 2025-08-05 014719.png ](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20014719.png)
+🔄 Flow: Stock Alert [Screenshot 2025-08-05 004126.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004126.png)
+🔄 Flow: Stock Alert Email [Screenshot 2025-08-05 004426.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004426.png)
+🔄 Classic Email Template [Screenshot 2025-08-05 004806.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004806.png)
+🔄 Loyalty program [Screenshot 2025-08-05 004111.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004111.png)
+🔄 Developer Console [Screenshot 2025-08-05 004046.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004046.png)
 
 📄 License This project is for academic and portfolio purposes. You’re free to fork, adapt, or reference it for learning.
 
 💬 Feedback Have suggestions, questions, or want to collaborate? Open an issue or drop a message — I’d love to connect!
-
-30.6%
-Footer
