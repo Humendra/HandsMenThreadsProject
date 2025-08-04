@@ -25,6 +25,8 @@ Centralize and secure customer, order, and inventory data. Automate key workflow
 💻 GitHub Repository: https://github.com/yashbhamare-lab/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion.git
 
 🔄 Custom Objects: HandsMen Customer [Screenshot 2025-08-05 003911.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20003911.png)
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/d4c0924c-a01b-4481-9138-de2fd19562a9" />
+
 🔄 Custom Objects: HandsMen Order [Screenshot 2025-08-05 003931.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20003931.png)
 🔄 Custom Objects: HandsMen Product [Screenshot 2025-08-05 003945.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20003945.png)
 🔄 Custom Objects: Inventory [Screenshot 2025-08-05 004157.png](https://github.com/Humendra/HandsMenThreadsProject/blob/8ae25cb81bf044e29259cc2c8ce3db397e325f2b/Screenshot%202025-08-05%20004157.png)
