@@ -20,9 +20,9 @@ Centralize and secure customer, order, and inventory data. Automate key workflow
 
 👨‍💻 Author Yash Bhamare
 
-🔗 Project Links 🎥 Demo Video: Click Here-Video
+🔗 Project Links 🎥 Demo Video: Click [Here-Video](https://drive.google.com/file/d/1k3Eksx_lqEMJk1m-IKNSiERrPeZ2g2Vv/view?usp=sharing)
 
-💻 GitHub Repository: https://github.com/yashbhamare-lab/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion.git
+💻 GitHub Repository: https://github.com/Humendra/HandsMenThreadsProject.git
 
 🔄 Custom Objects: HandsMen Customer Screenshot 2025-07-20 000314 🔄 Custom Objects: HandsMen Order Screenshot 2025-07-20 000332 🔄 Custom Objects: HandsMen Product Screenshot 2025-07-20 000353 🔄 Custom Objects: Inventory Screenshot 2025-07-20 000409 🔄 Custom Objects: Marketing Campaign Screenshot 2025-07-20 000526 🔄 Flow: Loyalty Status Update Screenshot 2025-07-20 000629 🔄 Flow: Order Confirmation Screenshot 2025-07-20 000712 🔄 Flow: Order Confirmation Email Screenshot 2025-07-20 000831 🔄 Flow: Stock Alert Screenshot 2025-07-20 000745 🔄 Flow: Stock Alert Email Screenshot 2025-07-20 000847 🔄 Classic Email Template Screenshot 2025-07-20 000945 🔄 Loyalty program Email Screenshot 2025-07-20 000901 🔄 Developer Console Screenshot 2025-07-20 001455
 
